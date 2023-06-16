@@ -1,0 +1,28 @@
+{
+  "projects": {
+    "default": "ezfinanz-bp"
+  },
+  "targets": {
+    "ezfinanz": {
+      "hosting": {
+        "ezfinanz-test": [
+          "ezfinanz-test"
+        ],
+        "ezfinanz": [
+          "ezfinanz-bp"
+        ]
+      }
+    },
+    "ezfinanz-bp": {
+      "hosting": {
+        "ezfinanz-test": [
+          "ezfinanz-test"
+        ],
+        "ezfinanz": [
+          "ezfinanz-bp"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "929750140649",
+    "firebase_url": "https://ezfinanz-bp.firebaseio.com",
+    "project_id": "ezfinanz-bp",
+    "storage_bucket": "ezfinanz-bp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929750140649:android:5f5c6d3c20011d2727d278",
+        "android_client_info": {
+          "package_name": "com.ezfinanz.ezbp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929750140649-428c9i04b2fp5s8pihu8qp0p1b8u5v9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ezfinanz.ezbp",
+            "certificate_hash": "485ed06539272c08a83c405dd9a76143b69cbd27"
+          }
+        },
+        {
+          "client_id": "929750140649-kn4s9gv46ne7ouglhs983179nn10sc06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ezfinanz.ezbp",
+            "certificate_hash": "6fd74a680b3abb258efa3743c82f20fdc0da7617"
+          }
+        },
+        {
+          "client_id": "929750140649-5o7eeabjrrogaiogj0pek6sm4ibfgee2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8lbvfCx2H_10lsQPL_sEFOuKF6Ujt6bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929750140649-5o7eeabjrrogaiogj0pek6sm4ibfgee2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

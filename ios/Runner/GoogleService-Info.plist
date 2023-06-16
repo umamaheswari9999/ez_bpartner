@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>929750140649-cj8ikiatrubgf0csrd3qm15aj0e974df.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.929750140649-cj8ikiatrubgf0csrd3qm15aj0e974df</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>929750140649-428c9i04b2fp5s8pihu8qp0p1b8u5v9v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4bTzlOLUoEsJEzNigxIEMr-NIwnbtUHk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>929750140649</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ezfinanz.business.app</string>
+	<key>PROJECT_ID</key>
+	<string>ezfinanz-bp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ezfinanz-bp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:929750140649:ios:88ecb88383c2830327d278</string>
+	<key>DATABASE_URL</key>
+	<string>https://ezfinanz-bp.firebaseio.com</string>
+</dict>
+</plist>

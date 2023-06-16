@@ -1,0 +1,3 @@
+enum LoanEligibilityStatus {
+  eligible, notEligible
+}
